@@ -1,3 +1,4 @@
+# This repository will neither continue to be checked for errors nor further developed. The repository was quasi the test for the currently available bug-free repository. Link: https://bit.ly/3emF7N2DW3D
 # This repository is a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
 
 
